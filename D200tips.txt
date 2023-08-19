@@ -37,14 +37,14 @@
 },
  
  "my_data":[
-  {"title":"title1 ser","desc":"description1 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title2 ser","desc":"description2 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title3 ser","desc":"description3 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title4 ser","desc":"description4 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title5 ser","desc":"description5 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title6 ser","desc":"description6 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title7 ser","desc":"description7 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title8 ser","desc":"description8 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"}
+  {"title":"SKINS FARM gold IN STANDOFF mod 1","desc":"In the world of Standoff 2, acquiring and customizing weapon skins is a crucial aspect of the game. Skins not only enhance the aesthetics of your firearms but can also be a valuable asset for trading or selling","photo":"https://iili.io/HbCbem7.webp"},
+  {"title":"SKINS FARM gold IN STANDOFF mod 2","desc":"One of the primary ways to acquire skins is by farming gold, which can be used to open crates or purchase skins directly from the in-game store","photo":"https://iili.io/HbCPmjj.webp"},
+  {"title":"SKINS FARM gold IN STANDOFF mod 3","desc":" In this guide, we will delve into the strategies and methods to effectively farm gold for skins in Standoff 2.","photo":"https://iili.io/HbCbOeS.webp"},
+  {"title":"SKINS FARM gold IN STANDOFF mod 4","desc":" In this guide, we will delve into the strategies and methods to effectively farm gold for skins in Standoff 2.","photo":"https://iili.io/HbCi9CQ.webp"},
+  {"title":"SKINS FARM gold IN STANDOFF mod 5","desc":"Highlight the rarity tiers of skins (Common, Rare, Epic, Legendary) and how they affect gold value.","photo":"https://iili.io/HbCPpZx.webp"},
+  {"title":"SKINS FARM gold IN STANDOFF mod 6","desc":"Outline the importance of completing daily and weekly missions.","photo":"https://iili.io/HbCstXj.webp"},
+  {"title":"SKINS FARM gold IN STANDOFF mod 7","desc":"Provide tips on efficiently completing missions to earn gold rewards.","photo":"https://iili.io/HbCsDLx.webp"},
+  {"title":"SKINS FARM gold IN STANDOFF mod 8","desc":"Describe the different game modes in Standoff 2 that offer gold rewards.","photo":"https://iili.io/HbCsmqQ.webp"}
    ]
  
 }
